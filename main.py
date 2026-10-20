@@ -28,9 +28,9 @@ except Exception as e:
 # ====================================
 def send_email():
     try:
-        sender = "preethies5502@gmail.com"
-        password = "taep ckpk zgdq acqe"
-        receiver = "preethies5502@gmail.com"
+        sender = "your maill id gmail.com"
+        password = "your password"
+        receiver = "your mail id"
 
         message = "Subject: ALERT!\n\nSuspicious activity detected!"
 
